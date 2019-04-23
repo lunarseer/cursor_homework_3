@@ -1,2 +1,1 @@
 It was awesome lection! I found out many useful about everyday usage of Git, We will use git with GitLab and GitHub services
-Розв’яжіть нерівність x + 1/x 4/3
